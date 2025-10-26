@@ -1,0 +1,17 @@
+Name kuamr 
+age 20
+height 5.11"
+lets program together 
+first content 
+second content 
+third content 
+fourth content 
+fifth content
+sixth content 
+	quit
+project 1
+project 2
+project 3
+project 4
+project 5 
+project 6
